@@ -1,6 +1,7 @@
 # katiecoopergray.github.io
 Professional Work Site
 
+theme: minimal
 
 # H1
 ## H2
